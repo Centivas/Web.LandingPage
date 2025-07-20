@@ -1,2 +1,2 @@
 # Web.LandingPage
-A landing page for the domains
+A landing page for Centivas websites.
